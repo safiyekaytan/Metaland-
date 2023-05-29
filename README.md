@@ -1,18 +1,11 @@
 # Metaland-
 This project is a c# form application designed to make purchase and sale transactions on land, market, store, real estate in virtual environment using sql database.
 
-![zyro-image (3)](https://github.com/safiyekaytan/Metaland-/assets/95499415/da502f95-5e4d-49bf-94b7-696a5c0c6c5d)
-
-![zyro-image (4)](https://github.com/safiyekaytan/Metaland-/assets/95499415/43e4ad5d-5180-4ea2-a6a0-82a8762cee3e)
-
-![zyro-image (5)](https://github.com/safiyekaytan/Metaland-/assets/95499415/89ca9d66-668c-4777-bbb6-975a5bcc652f)
-
-![zyro-image (6)](https://github.com/safiyekaytan/Metaland-/assets/95499415/bf92d8d3-b6d8-4524-b4c5-cf601d2f6044)
-
-![zyro-image (7)](https://github.com/safiyekaytan/Metaland-/assets/95499415/3efff3f4-b082-4f96-b4cc-0d3d7fe6ad7a)
-
-![zyro-image (8)](https://github.com/safiyekaytan/Metaland-/assets/95499415/8ac4574b-204b-45f0-a254-1c4fda3a1210)
-
-![zyro-image (9)](https://github.com/safiyekaytan/Metaland-/assets/95499415/32ca0e78-3211-418d-8555-a641dbcdd836)
-
-![zyro-image (10)](https://github.com/safiyekaytan/Metaland-/assets/95499415/2d75b534-d8e8-4b1c-ba6f-fc3fe717af42)
+![a](https://github.com/safiyekaytan/Metaland-/assets/95499415/72d4a156-8d36-40f0-8688-4e8d94b69347)
+![b](https://github.com/safiyekaytan/Metaland-/assets/95499415/6aeee3d3-3bfe-4a55-8979-9d976066d3f8)
+![c](https://github.com/safiyekaytan/Metaland-/assets/95499415/4c330849-5cc2-46d9-9a41-d913af73c675)
+![d](https://github.com/safiyekaytan/Metaland-/assets/95499415/f5306147-e37e-4d65-bd06-cf10fab38cde)
+![e](https://github.com/safiyekaytan/Metaland-/assets/95499415/653d9731-8dae-451c-adc0-9aa5e5c997c7)
+![f](https://github.com/safiyekaytan/Metaland-/assets/95499415/832725d4-1969-49c4-98e7-cddf2440e89b)
+![g](https://github.com/safiyekaytan/Metaland-/assets/95499415/c98060c2-97fb-4c1f-b2e8-9f4dbf480314)
+![h](https://github.com/safiyekaytan/Metaland-/assets/95499415/c8f4a8e2-ab56-48c3-a10b-d4d61605ec29)
